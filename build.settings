@@ -18,6 +18,7 @@ settings =
 	--
 	android =
 	{
+		versionCode = "10",
 		usesPermissions =
 		{
 			"android.permission.INTERNET",
